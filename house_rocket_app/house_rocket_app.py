@@ -200,7 +200,7 @@ def maps(data, geofile):
 
         st.write(
             """
-            #### A total of 21,436 homes were analyzed, but only 2.41% (8,889) are recommended for purchase. 
+            #### A total of 21,436 homes were analyzed, but only 41% (8,889) are recommended for purchase. 
             #### The maps on the right side show where the best opportunities are among all the houses analyzed.
         """)
 
