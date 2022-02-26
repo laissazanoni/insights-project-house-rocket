@@ -3,7 +3,7 @@
 
 House Rocket is a digital platform whose business model is to buy and sell real estate using technology
 
-![](house_rocket_app/image/image_house_rocket.jpg)
+![](image/image_house_rocket.jpg)
 
 # 1. Business Problem
 
